@@ -1,4 +1,6 @@
 bin/
 lib/
 include/
-share/
+share/	
+.DS_Store
+.Python

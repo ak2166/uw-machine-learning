@@ -1,7 +1,7 @@
 bin/
 lib/
 include/
-share/	
+share/
 .DS_Store
-.Python			
-.ipynb_checkpoints
+.Python
+.ipynb_checkpoints/
